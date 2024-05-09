@@ -1,5 +1,5 @@
 name: SimpleDeathNight
-version: '${project.version}'
+version: '1.0'
 main: ru.rilfexxdev.simpledeathnight.Main
 api-version: '1.16'
 commands:

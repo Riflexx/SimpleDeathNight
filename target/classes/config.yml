@@ -1,0 +1,14 @@
+bossbars:
+  preparation: "&#FB0808&lП&#FB0F07&lО&#FC1506&lД&#FC1C05&lГ&#FD2305&lО&#FD2A04&lТ&#FE3003&lО&#FE3702&lВ&#FE3E01&lК&#FF4500&lА &8&l| &f&lИДЕТ ПОДГОТОВКА К СУДНОЙ НОЧИ &8&l| &f&lДо окончания: &#FE3003&l%time%"
+  night: "&#FB0808&lС&#FC1606&lУ&#FD2404&lД&#FE3303&lН&#FF4101&lА&#FF4101&lЯ &#FE3303&lН&#FD2404&lО&#FC1606&lЧ&#FB0808&lЬ &8&l| &f&lСУДНАЯ НОЧЬ ИДЁТ ПОДРОБНЕЕ: &7&l/night info &8&l| &f&lДо окончания: &#FE3003&l%time%"
+messages:
+  info: "&fИнформация о судной ночи:%nl%&cСудная ночь &fэто как ивент, в это время вы можете спокойно драться 3x1 и больше. Наказания вы не получите."
+  started: "&fБыла начата &#FB0808&lПОДГОТОВКА К СУДНОЙ НОЧИ%nl%&fБолее подробно вы можете узнать,%nl%написав команду: &#FB0808/night info%nl%%nl%&fУ Вас есть &#FE3303%time% &fчто-бы собрать команду."
+  preparation-stoped: "&fБыла начата &#FB0808&lСУДНАЯ НОЧЬ%nl%&fБолее подробно вы можете узнать,%nl%написав команду: &#FB0808/night info"
+  night-stoped: "&#FB0808&lСУДНАЯ НОЧЬ &fбыла окончена.%nl%Правило 3x1 работает и вы получите наказание."
+timers:
+  preparation: 60
+  night: 120
+settings:
+  barcolor: YELLOW #RED, PURPLE, YELLOW, GRAY and etc.
+  barstyle: SEGMENTED_12 #SOLID, SEGMENTED_12
